@@ -34,7 +34,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-## GitHub Stats
+## :octocat: GitHub Stats
 
 [![Time Gambit's github stats](https://github-readme-stats.vercel.app/api?username=jintak0401&show_icons=true)](https://github.com/jintak0401)
 
