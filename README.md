@@ -6,8 +6,6 @@
 
 [![Mail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jintak0401@naver.com)
 
-
-
 ## 🛠 Technologies
 
 #### Languages
@@ -22,7 +20,7 @@
 
 ![Next JS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.sields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### BackEnd
 
@@ -34,7 +32,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-## :octocat: GitHub Stats
+## <img style="margin-bottom:-7px" height="35" src="https://user-images.githubusercontent.com/32933980/209608495-22593ef0-7f3a-434c-b59a-acc5bfbadb63.png" />   GitHub Stats
 
 [![Time Gambit's github stats](https://github-readme-stats.vercel.app/api?username=jintak0401&show_icons=true)](https://github.com/jintak0401)
 
