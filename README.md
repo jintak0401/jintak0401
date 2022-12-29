@@ -34,6 +34,6 @@
 
 ## <img style="margin-bottom:-7px" height="35" src="https://user-images.githubusercontent.com/32933980/209608495-22593ef0-7f3a-434c-b59a-acc5bfbadb63.png" />   GitHub Stats
 
-[![Time Gambit's github stats](https://github-readme-stats.vercel.app/api?username=jintak0401&show_icons=true)](https://github.com/jintak0401)
+[![Time Gambit's github stats](https://github-readme-stats-chi-bay.vercel.app/api?username=jintak0401&show_icons=true)](https://github.com/jintak0401)
 
-[![Time Gambit's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jintak0401&hide=C%23,C,JAVA,C%2B%2B&layout=compact)](https://github.com/jintak0401)
+[![Time Gambit's Top Langs](https://github-readme-stats-chi-bay.vercel.app/api/top-langs/?username=jintak0401&hide=C%23,C,JAVA,C%2B%2B&layout=compact)](https://github.com/jintak0401)
